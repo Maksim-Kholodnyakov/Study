@@ -29,7 +29,7 @@ public class Separator {
     }
 
     public static void main(String[] args) {
-        Separator w = new Separator(new int[]{2});
+        Separator w = new Separator(new int[]{2,3,1234,7});
         System.out.println(Arrays.asList(w.even()));
     }
 }

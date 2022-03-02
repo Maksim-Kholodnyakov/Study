@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class Arr {
 
     public static void main(String[] args) {
-        String st = "bdcagefh";
+        String st = "bdcagefhas";
         char[] arr = new char[st.length()];
         for (int i = 0; i < st.length(); i++) {
             arr[i] = st.charAt(i);
